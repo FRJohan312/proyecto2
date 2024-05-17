@@ -23,6 +23,3 @@ sistema.cancelar_cita(cita_a_cancelar)
 citas_disponibles = sistema.buscar_citas_disponibles('2024-05-20')
 for cita in citas_disponibles:
     print(cita)
-
-print("hola mundo")
-    
